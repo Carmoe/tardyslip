@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tardy Slip Printer", "WindowsApplication1\Tardy Slip Printer.vbproj", "{60827076-C540-44BF-8FAB-1D46B9A351C3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TardySlipPrinter3.1", "TardySlipPrinter\TardySlipPrinter.vdproj", "{8A32664B-72AF-414C-A0B4-B7DB9E3CCFF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60827076-C540-44BF-8FAB-1D46B9A351C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60827076-C540-44BF-8FAB-1D46B9A351C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60827076-C540-44BF-8FAB-1D46B9A351C3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{60827076-C540-44BF-8FAB-1D46B9A351C3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8A32664B-72AF-414C-A0B4-B7DB9E3CCFF4}.Debug|Any CPU.ActiveCfg = Debug
+		{8A32664B-72AF-414C-A0B4-B7DB9E3CCFF4}.Release|Any CPU.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B239A717-EFDE-4EDA-A3CE-CA9AF70032CA}
+	EndGlobalSection
+EndGlobal

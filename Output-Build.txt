@@ -1,0 +1,15 @@
+﻿1>------ Build started: Project: Tardy Slip Printer, Configuration: Release Any CPU ------
+1>\\administration\homedir$\mopdyke\Visual Studio 2015\Projects\TardyTester\WindowsApplication1\Tardy Slip Printer.vb(179,5): warning BC42105: Function 'GetClass' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>\\administration\homedir$\mopdyke\Visual Studio 2015\Projects\TardyTester\WindowsApplication1\Tardy Slip Printer.vb(117,17): warning BC42024: Unused local variable: 'nav'.
+1>\\administration\homedir$\mopdyke\Visual Studio 2015\Projects\TardyTester\WindowsApplication1\Tardy Slip Printer.vb(230,5): warning BC42105: Function 'GetRoom' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>\\administration\homedir$\mopdyke\Visual Studio 2015\Projects\TardyTester\WindowsApplication1\Tardy Slip Printer.vb(279,5): warning BC42105: Function 'GetTeach' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>\\administration\homedir$\mopdyke\Visual Studio 2015\Projects\TardyTester\WindowsApplication1\Tardy Slip Printer.vb(309,5): warning BC42105: Function 'getPic' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>  Tardy Slip Printer -> \\administration\homedir$\mopdyke\Visual Studio 2015\Projects\TardyTester\WindowsApplication1\bin\Release\Tardy Slip Printer.exe
+Building Tardy Slip Printer...
+2>------ Publish started: Project: Tardy Slip Printer, Configuration: Release Any CPU ------
+Connecting to '\\administration\homedir$\mopdyke\MyApps\'...
+Publishing files...
+Publish success.
+\\administration\homedir$\mopdyke\MyApps\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
